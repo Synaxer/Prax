@@ -1,0 +1,21 @@
+[debug] Packaging C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\untitled1_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Main$.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$delayedInit$body.class
+[debug] 	Main$Pixel$.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$Pixel$.class
+[debug] 	Main$Pixel.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$Pixel.class
+[debug] 	Main$Position$.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$Position$.class
+[debug] 	Main$Position.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$Position.class
+[debug] 	Main$Properties$.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$Properties$.class
+[debug] 	Main$Properties.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main$Properties.class
+[debug] 	Main.class
+[debug] 	  C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes\Main.class
+[debug] Done packaging.

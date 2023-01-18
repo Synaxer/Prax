@@ -1,0 +1,17 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\zarec\IdeaProjects\untitled1\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.10. Compiling...
+[info]   Compilation completed in 13.442s.
+[error] C:\Users\zarec\IdeaProjects\untitled1\src\main\scala\Main.scala:19:48: illegal start of simple expression
+[error]     for (line <- screen.split("\n").toList.map(.replace(" ",""))) yield {
+[error]                                                ^
+[error] C:\Users\zarec\IdeaProjects\untitled1\src\main\scala\Main.scala:36:1: ')' expected but '}' found.
+[error] }
+[error] ^
+[error] two errors found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 16 s, completed 18. 1. 2023, 21:51:02
+[debug] > Exec(idea-shell, None, None)
